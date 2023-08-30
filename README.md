@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+Edit from Austin - 
+this is what you should see in your browswer after running `npm start`
+
+![poc](https://github.com/austinfennacy/front-chat-in-react-poc/assets/33964526/190661f0-e603-44c6-bd36-83480cc28889)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
